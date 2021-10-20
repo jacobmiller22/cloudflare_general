@@ -1,2 +1,3 @@
 [submodule "workers/api"]
 path = workers/api
+url = git@github.com:jacobmiller22/cloudflare-general-worker.git
